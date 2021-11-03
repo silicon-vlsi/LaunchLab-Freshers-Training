@@ -17,3 +17,8 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - **Day-4**: **DRC, LVS and PEX in details**: DRC Rule deck file and different rules || LVS rule deck file || PEX rule deck file || Basics of P-Cell
 - **Day-5**: MOSFET Parameter extraction using Level-1 modelling (Lab) || Inverter static characteristics || Noise Margin || Inverter Design and simulation (Lab) || Inverter Dynamic Characteristics || Power, delay and Energy calculation || Inverter Dynamic characteristics (Lab) || Combinational circuits and Transmission Gate || Sequential logics (D-latch, D-FF) || Setup and Hold time calculation (Lab) || Undestanding PVT Variations || Understanding of Device Matching || Standard Cell Basics
 - **Day-6**: Asignment and aassessment
+
+
+## Session Activities
+- [Nov-8] Introduction to CMOS VLSI Design Flow [[Video](https://www.youtube.com/watch?v=NVzHuigvpt4)]
+  - [*Suggested Reading*]: [Hodges] Chapter-**1**, [Kang] Chapter-**1**
