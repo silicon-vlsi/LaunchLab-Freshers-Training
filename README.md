@@ -23,6 +23,13 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - [Nov-8] Introduction to CMOS VLSI Design Flow [[Video](https://www.youtube.com/watch?v=NVzHuigvpt4)]
   - [*Suggested Reading*]: [Hodges] Chapter-**1**, [Kang] Chapter-**1**
   - [*quick start guide for VIM*]: [[doc1](https://www.dropbox.com/s/9qqno50ls4sntlc/quickStartGuide-VIM.pdf)], [[doc2](https://www.dropbox.com/s/c2t8at6b5ztq0nu/quickStartGuideLinuxCommandLine.pdf)], [[doc3](https://www.dropbox.com/s/v0vnute8hbwkrts/vim_tutorial.pdf)], [[doc4](https://www.dropbox.com/s/b89wggspy84yaff/viHelp.pdf)]
-- [Nov 9] Introduction to CMOS PRocessing [[Video](https://www.youtube.com/watch?v=dauFDKM-Eu0)]
+- [Nov-9] Introduction to CMOS PRocessing [[Video](https://www.youtube.com/watch?v=dauFDKM-Eu0)]
   - [*Suggested Reading*]: [Hodges] Section **3.1,3.2**
   - [*Suggested Problems*]: [Hodges] Prob **3.11, 3.12**
+- [Nov-10] Metal Oxide Semiconductor Field Effect Transistor (MOSFET)
+  - Metal-Oxide-Semiconductor Stucture-1 [[Notes]](https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=AxZyFuJh0rM)
+  - Metal-Oxide-Semiconductor Stucture-2 [[Notes]](https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=zQmV7c30ZDU)
+  - Metal-Oxide-Semiconductor Stucture-3 [[Notes]](https://www.dropbox.com/s/xcipyfkiis1fbo5/2020-0810-15VLSI7T-Module1-Lecture7-8-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=Eyu6TVZRwAE)
+  - Metal Oxide Semiconductor Field Effect Transistor-1 [[Notes]](https://www.dropbox.com/s/23z0n3p068hkgul/2020-0817-15VLSI7T-Module1-Lecture9-10-MOSFET.pdf) || [[Video]](https://www.youtube.com/watch?v=tfF-K-Gbeb4)
+  - Metal Oxide Semiconductor Field Effect Transistor-2 [[Notes]](https://www.dropbox.com/s/mqzd1o6u5y8qprn/2020-0818-15VLSI7T-Module1-Lecture11-12-MOSFET.pdf) || [[Video]](https://www.youtube.com/watch?v=bPLzXzopsNo)
+  - MOSFET Capacitance [[Notes]](https://www.dropbox.com/s/xxci3s9zu62b042/2020-0819-15VLSI7T-Module1-Lecture13-MOSFET-Capacitance.pdf) || [[Video]](https://www.youtube.com/watch?v=toIzPbxFwKE)
