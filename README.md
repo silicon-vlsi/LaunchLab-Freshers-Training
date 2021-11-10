@@ -26,7 +26,11 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - [Nov-9] Introduction to CMOS PRocessing [[Video](https://www.youtube.com/watch?v=dauFDKM-Eu0)]
   - [*Suggested Reading*]: [Hodges] Section **3.1,3.2**
   - [*Suggested Problems*]: [Hodges] Prob **3.11, 3.12**
-- [Nov-10] Metal Oxide Semiconductor Field Effect Transistor (MOSFET)
+
+- [Nov-10] *Session-1*: Passive Integrated Circuit Devices. *Session-2*: MOS Device-I: Threshold Voltage [[Video:Session-1](https://www.youtube.com/watch?v=3SCYAH57Ixw) | [Video:Session-2](https://www.youtube.com/watch?v=OUZV9N0b3Lc)]
+  - [*Suggested Reading*]: [Hodges] Section **3.2.4, 3.2.5**
+  - [*Suggested Problems*]: [Hodges] Example **3.1**, Prob **3.13, 3.14**
+- [Additional Materials]: Metal Oxide Semiconductor Field Effect Transistor (MOSFET)
   - Metal-Oxide-Semiconductor Stucture-1 [[Notes]](https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=AxZyFuJh0rM)
   - Metal-Oxide-Semiconductor Stucture-2 [[Notes]](https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=zQmV7c30ZDU)
   - Metal-Oxide-Semiconductor Stucture-3 [[Notes]](https://www.dropbox.com/s/xcipyfkiis1fbo5/2020-0810-15VLSI7T-Module1-Lecture7-8-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=Eyu6TVZRwAE)
