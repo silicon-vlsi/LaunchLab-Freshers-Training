@@ -1,6 +1,24 @@
 # Sevya-Freshers-Training
 This repository contains all the materials related to the basic MOSFET theory, CMOS technology, circuit and layout design, and basic PDK design.
 
+## Some Useful Videos on IC Design
+- **PROCESSING TECHNOLOGY**
+  - [Wafer Manufacturing Process](https://www.youtube.com/watch?v=3TOpg1niATg)
+  - [Making Memory Chips -- Processing steps](https://www.youtube.com/watch?v=M-wNC3Z3ZX4) -- Micron Technology
+  - [Chip Manufacturing Process -- How are chips made](https://www.youtube.com/watch?v=bor0qLifjz4) -- Infeneon
+  - [VLSI Fabrication Process](https://www.youtube.com/watch?v=fwNkg1fsqBY)
+  - [Photolithography -- Step by Step](https://www.youtube.com/watch?v=oBKhN4n-EGI)
+  - [VLSI - Lecture 2b: The Manufacturing Process - Detailed Process Flow](https://www.youtube.com/watch?v=btFk7jkk5e4)
+- **MOSFET MECHANICS**
+  - [How MOSFETs and Field-Effect Transistors Work](https://www.youtube.com/watch?v=tz62t-q_KEc)
+  - [How Transistors Work - The MOSFET](https://www.youtube.com/watch?v=QO5FgM7MLGg&t=4s)
+  - [MOSFET: Physical View](https://www.youtube.com/watch?v=wP-ODG_e1i0)
+  - [MOSFET Working animation](https://www.youtube.com/watch?v=ItOV1nkTlPU)
+  - [What is a CMOS?](https://www.youtube.com/watch?v=docgmTprR5o)
+- **NAND FLASH MEMORY**
+  - [What's 3D NAND and 2D NAND Flash Memory](https://www.youtube.com/watch?v=Q1djdDh78PA)
+
+
 ## Course Contents
 
 ### Week-1
