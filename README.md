@@ -90,28 +90,19 @@ This repository contains all the materials related to the basic MOSFET theory, C
   - *CMOS Logic Circuits & Complex Logic Circuits [[Notes]](https://www.dropbox.com/s/tpdidw4rtuvk9f4/2020-0907-15VLSI7T-Module2-Lecture20-21-Combinational-Logic.pdf) || [[Video]](https://www.youtube.com/watch?v=uQoivq7c5ZQ)
   - *CMOS Transmission Gate* [[Notes]](https://www.dropbox.com/s/8xkxupbchyv9m9s/2020-0908-15VLSI7T-Module2-Lecture22-23-Transmission-Gate.pdf) || [[Video]](https://www.youtube.com/watch?v=yKiQru_JIpE&t=16s)
   - *Pseudo NMOS Logic* [[Notes]](https://www.dropbox.com/s/d0fsj5oyyjygusu/2020-0909-15VLSI7T-Module2-Lecture24-Pseudo-NMOS-Logic.pdf) || [[Video]](https://www.youtube.com/watch?v=Gi2ipFUubfs)
-- **Sequential Logic Circuits**: 
+- **Sequential Logic Circuits**: Understanding of latch and flip-flop design || understanding of setup, hold and propagation time 
   - *Latch and Flip-Flop Circuits* [[Notes]](https://www.dropbox.com/s/0q6lvah7bk2j11e/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits.pdf) || [[Video]](https://www.youtube.com/watch?v=LHw9McKBRJI)
   - *Sequential Logic Circuits* [[Slides]](https://www.dropbox.com/s/uht871k7dje6hnj/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits-Slides%28Kang-Book%29.pdf) || [[Video]](https://www.youtube.com/watch?v=ETCqIvNYOpk)
   - *Setup, Hold and Propagation delay of D-FF* [[Notes]](https://www.dropbox.com/s/xmpueuvrqmcsclv/2020-0922-15VLSI7T-Module2-Lecture30-31-Setup-Hold-Propagation-Delay-of-DFF.pdf) || [[Video]](https://www.youtube.com/watch?v=5Ofx-QubGts)
   - *Hold Time Analysis of D-FF* [[]]() || [[Video]](https://www.youtube.com/watch?v=5HziqKs8luE)
+- **Assignments**: [Assignment-1]()
 
-
-
-### Week-5
-- **Day-1**: Introduction to CMOS VLSI Design Flow || Tools and PDK walk through
-- **Day-2**: Passive Integrated Circuit Devices || MOS structure, MOSFET working principle and Threshold Voltage Calculation
-- **Day-3**: MOSFET I-V characteristics || MOSFET intrinsic capacitances
-- **Day-4**: MOSFET modelling (level1, level2, level3 and BSIM) || Introduction to spice netlist, circuit simulation
-- **Day-5**: Introduction to CMOS Processing || Process Stack diagram (Skywater 130nm PDK) || Parasitics and interconnect effects
-- **Day-6**: Asignment and aassessment
-### Week-4
-- **Day-1**: Layer details (Metal, poly, diffusion, OD, N-Well, P-substrate, P+ Diff, N+ Diff, Via, Contact, Ports and Lable etc) || Layer drawing, layer interacting and, port and label creating || Layout Design of NMOS and PMOS
-- **Day-2**: **Layout Design of Inverter**: 1. Undestanding of Design Rule Check (DRC) || Understanding of Layout Vs Schematic (LVS) || Understanding of Parasic Extraction (PEX) || Understanding of Post Layout Simulation (PLS)
-- **Day-3**: Layout Design of NAND and NOR Gates || Layout Design of Resistors, Capacitors and BJTs
-- **Day-4**: **DRC, LVS and PEX in details**: DRC Rule deck file and different rules || LVS rule deck file || PEX rule deck file || Basics of P-Cell
-- **Day-5**: MOSFET Parameter extraction using Level-1 modelling (Lab) || Inverter static characteristics || Noise Margin || Inverter Design and simulation (Lab) || Inverter Dynamic Characteristics || Power, delay and Energy calculation || Inverter Dynamic characteristics (Lab) || Combinational circuits and Transmission Gate || Sequential logics (D-latch, D-FF) || Setup and Hold time calculation (Lab) || Undestanding PVT Variations || Understanding of Device Matching || Standard Cell Basics
-- **Day-6**: Asignment and aassessment
+### Week-8: Layout Design
+- **Layout Basics**: Layer details (Metal, poly, diffusion, OD, N-Well, P-substrate, P+ Diff, N+ Diff, Via, Contact, Ports and Lable etc) || Layer drawing, layer interacting and, port and label creating || Layout Design of NMOS and PMOS
+- **Layout Design of Inverter**: Undestanding of Design Rule Check (DRC) || Understanding of Layout Vs Schematic (LVS) || Understanding of Parasic Extraction (PEX) || Understanding of Post Layout Simulation (PLS)
+- **Other Layouts**: Layout Design of NAND and NOR Gates || Layout Design of Resistors, Capacitors and BJTs
+- **DRC, LVS and PEX in details**: DRC Rule deck file and different rules || LVS rule deck file || PEX rule deck file || Basics of P-Cell
+- **Asignment and aassessment**:
 
 
 ## Session Activities
