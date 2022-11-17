@@ -22,13 +22,13 @@ This repository contains all the materials related to the basic MOSFET theory, C
 ## Course Contents
 
 ### Week-1: Pre-requisites
-- **Fundamentals of Digital Logic**: Test your understanding by solving assignments. [Test: Digital Logic Design]()
-- **Fundamentals of Electrical Circuits**: Test your understanding by solving assignments. [Test: Electrical Circuits]()
+- **Fundamentals of Digital Logic**: Test your understanding by solving assignments. [Test: Digital Logic Design](https://www.dropbox.com/s/k5vwksmb9quau2n/Digital-Circuits-Assignment.pdf)
+- **Fundamentals of Electrical Circuits**: Test your understanding by solving assignments. [Test: Electrical Circuits](https://www.dropbox.com/s/26f7nwgm0qtkbvw/Electrical-Circuits-Asignment.pdf)
 - **Fundamentals of Semiconductor Devices**: Test your understanding by solving assignments. [Test: Semiconductor Devices]()
 - **Fundamentas of UNIX**: 
   - Practicing basic UNIX commands. [Link](https://www.webminal.org/)
-  - Practicing frequently used UNIX commands. [Link]()
-  - Practicing file editing commands. [Link]()
+  - Practicing frequently used and advanced UNIX commands. [Link](https://www.dropbox.com/s/mdcrzaglnirs7z9/Ultimate_Linux_Commands.pdf)
+  - Practicing file editing commands. [Link]((https://www.dropbox.com/s/9qqno50ls4sntlc/quickStartGuide-VIM.pdf))
   - Test your understanding by solving assignments. [Test: UNIX and BASH scripting]()
   
 ### Week-2: Introduction to Digital Logic Circuit Design (Gate Level)
@@ -45,9 +45,9 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - **Introduction**: Fundamentals of VLSI Design and overview of Sand-to-Silicon.
 - **IC Design Flow**: Overview of Digital and Custom IC Design Flow and requirement of Computer Aided Design (CAD) Tools and Process Design Kit (PDK).
   - Digital IC Flow:  Spec  RTL  RTL Verification  Gate-level synthesis  Gate-level simulation  Physical Design  Physical Verification  parasitic extraction  Post-layout verification.
-  - Custom IC Flow (Analog IC Design): Spec  Circuit Design  Circuit Simulation  Layout Design  Layout Verification  Parasitic Extraction  Post-layout Simulation.
+  - Custom IC Flow (Analog IC Design): Spec  Circuit Design  Circuit Simulation  Layout Design  Layout Verification  Parasitic Extraction  Post-layout Simulation. [[Notes]](https://www.dropbox.com/s/cyu949ln3oxjfef/Custom%20VLSI%20Flow.pdf)
   - Requirements of the different CAD tools and PDK in different phase of the IC Design Flow.
-- **IC manufacturing process**:
+- **IC manufacturing process**:[Meterial](https://www.dropbox.com/s/zxp1dnwknvpfz8y/Weste-JohnsMartin-CMOSprocessing-Layout-Highlight-annotate.pdf)
      - Difference between Sub-micron, deep sub-micron and ultra-deep sub-micron process.
      - Detailed understanding of sub-micron process.
      - Passive IC devices and its fabrication: Resistor and Capacitor
@@ -64,12 +64,15 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - **MOSFET Capacitance**: Understanding of different intrinsic capacitances (overlap capacitance, channel capacitance, junction capacitance) of a MOSFET
   - *MOSFET Capacitance* [[Notes]](https://www.dropbox.com/s/xxci3s9zu62b042/2020-0819-15VLSI7T-Module1-Lecture13-MOSFET-Capacitance.pdf) || [[Video]](https://www.youtube.com/watch?v=toIzPbxFwKE)
 - **Short Channel Effects**: Understanding of MOSFET scaling and differenct short channel effects: Drain induced barrier lowering (DIBL), Velocity Saturation, Mobility degradaton, Hot carrier effects and Impact ionisation.
-  - *Short Channel Effects* [[Notes]]()
-- **Asignments**: [Assignment-1]()
+  - *Short Channel Effects* [[Notes]](https://www.dropbox.com/s/0b1jc56bo2svz98/Short-Channel-Effect.pdf)
+- **Asignments**: [Assignment-1](https://www.dropbox.com/s/7b81grtkhlmnbyx/MOSFET-Asignment.pdf)
 
 ### Week-5: Circuit Simulaton using CAD tools
 - **Circuit Simulation** Understanding of schematic drawing, SPICE net-list, model file and circuit simulation
-- **Simulation Types** Different type of Simulations: Operating point, DC, Transient and AC
+- **Simulation Types** Different type of Simulations: Operating point, DC, Transient and AC.
+  - [[*Schematic Drawing and Symbol Creation*]]()
+  - [[*DC Simulation*]]()
+  - [[*Transient Simulation*]]()
 - **MOSFET Characterization**: Simple circuit design using NMOSFET and PMOSFET to characterize Id-Vgs and Id-Vds curves with PVT variations.
 - **Parameter Extraction**: Extraction of the simple level-1 parameters (VT0, KP, LAMDA, GAMMA, PHI) from the curve and comparing the results using Level-1 model and BSIM model.
 - **PVT Variation**: Understanding of Process, Voltage and Temperature (PVT) variation
