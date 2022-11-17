@@ -115,7 +115,6 @@ This repository contains all the materials related to the basic MOSFET theory, C
 ## Session Activities
 - [Nov-8] Introduction to CMOS VLSI Design Flow [[Video](https://www.youtube.com/watch?v=NVzHuigvpt4)]
   - [*Suggested Reading*]: [Hodges] Chapter-**1**, [Kang] Chapter-**1**
-  - [*quick start guide for VIM*]: [[doc1](https://www.dropbox.com/s/9qqno50ls4sntlc/quickStartGuide-VIM.pdf)], [[doc2](https://www.dropbox.com/s/c2t8at6b5ztq0nu/quickStartGuideLinuxCommandLine.pdf)], [[doc3](https://www.dropbox.com/s/v0vnute8hbwkrts/vim_tutorial.pdf)], [[doc4](https://www.dropbox.com/s/b89wggspy84yaff/viHelp.pdf)]
 - [Nov-9] Introduction to CMOS PRocessing [[Video](https://www.youtube.com/watch?v=dauFDKM-Eu0)]
   - [*Suggested Reading*]: [Hodges] Section **3.1,3.2**
   - [*Suggested Problems*]: [Hodges] Prob **3.11, 3.12**
