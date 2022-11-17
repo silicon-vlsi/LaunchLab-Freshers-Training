@@ -28,7 +28,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - **Fundamentas of UNIX**: 
   - Practicing basic UNIX commands. [Link](https://www.webminal.org/)
   - Practicing frequently used and advanced UNIX commands. [Link](https://www.dropbox.com/s/mdcrzaglnirs7z9/Ultimate_Linux_Commands.pdf)
-  - Practicing file editing commands. [Link]((https://www.dropbox.com/s/9qqno50ls4sntlc/quickStartGuide-VIM.pdf))
+  - Practicing file editing commands. [Link](https://www.dropbox.com/s/9qqno50ls4sntlc/quickStartGuide-VIM.pdf)
   - Test your understanding by solving assignments. [Test: UNIX and BASH scripting]()
   
 ### Week-2: Introduction to Digital Logic Circuit Design (Gate Level)
