@@ -24,7 +24,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
 ### Week-1: Pre-requisites
 - **Fundamentals of Digital Logic**: Test your understanding by solving assignments. [Test: Digital Logic Design](https://www.dropbox.com/s/k5vwksmb9quau2n/Digital-Circuits-Assignment.pdf)
 - **Fundamentals of Electrical Circuits**: Test your understanding by solving assignments. [Test: Electrical Circuits](https://www.dropbox.com/s/26f7nwgm0qtkbvw/Electrical-Circuits-Asignment.pdf)
-- **Fundamentals of Semiconductor Devices**: Test your understanding by solving assignments. [Test: Semiconductor Devices]()
+- **Fundamentals of Semiconductor Devices**: Test your understanding by solving assignments. [Test: comming soon]()
 - **Fundamentas of UNIX**: 
   - Practicing basic UNIX commands. [Link](https://www.webminal.org/)
   - Practicing frequently used and advanced UNIX commands. [Link](https://www.dropbox.com/s/mdcrzaglnirs7z9/Ultimate_Linux_Commands.pdf)
