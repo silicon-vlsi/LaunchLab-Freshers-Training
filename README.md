@@ -53,7 +53,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
      - Passive IC devices and its fabrication: Resistor and Capacitor
      - MOSFET and CMOS Inverter fabrication process, cross-sectional view, top view and 3D view.
 
-### Week-3: Fundamentals of MOSFET
+### Week-4: Fundamentals of MOSFET
 - **MOS Structure**: Understanding of Metaal-Oxide-Semiconductor structure || understanding of accumulation, depletion and inverssion region of operation || understanding of Q-V and C-V characteristics of MOS structure.
      - *MOS Stucture-1* [[Notes]](https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=AxZyFuJh0rM)
   - *MOS Stucture-2* [[Notes]](https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=zQmV7c30ZDU)
@@ -64,7 +64,16 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - **Short Channel Effects**: Understanding of MOSFET scaling and differenct short channel effects: Drain induced barrier lowering (DIBL), Velocity Saturation, Mobility degradaton, Hot carrier effects and Impact ionisation.
   - *Short Channel Effects* [[Notes]]()
 - **Asignments**: [Assignment-1]()
-  
+
+### Week-4: Circuit Simulaton using CAD tools
+- **Circuit Simulation** Concept behind the schematic drawing, SPICE net-list, model file and circuit simulation
+- **Simulation Types** Different type of Simulations: Operating point, DC, Transient and AC
+- **MOSFET Characterization**: Simple circuit design using NMOSFET and PMOSFET to characterize Id-Vgs and Id-Vds curves with PVT variations.
+- **Parameter Extraction**: Extraction of the simple level-1 parameters (VT0, KP, LAMDA, GAMMA, PHI) from the curve and comparing the results using Level-1 model and BSIM model.
+- **PVT Variation**: Understanding of Process, Voltage and Temperature (PVT) variation
+- **Sensitivity and mismatch analysis**: Understanding the random variation and mismatch analysis by Monte Carlo simulations.
+- **Parametric simulation**: Parametric analysis and circuit simulation using ADE-XL
+
 ### Week-3
 - **Day-1**: Introduction to CMOS VLSI Design Flow || Tools and PDK walk through
 - **Day-2**: Passive Integrated Circuit Devices || MOS structure, MOSFET working principle and Threshold Voltage Calculation
