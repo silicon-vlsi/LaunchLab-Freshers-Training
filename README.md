@@ -68,7 +68,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - **Asignments**: [Assignment-1](https://www.dropbox.com/s/7b81grtkhlmnbyx/MOSFET-Asignment.pdf)
 
 ### Week-5: Circuit Simulaton using CAD tools
-- **Circuit Simulation** Understanding of schematic drawing, SPICE net-list, model file and circuit simulation
+- **Circuit Simulation** Understanding of schematic drawing, SPICE net-list, model file and circuit simulation.
 - **Simulation Types** Different type of Simulations: Operating point, DC, Transient and AC.
   - *Schematic Drawing and Symbol Creation* []()
   - *DC Simulation* []()
