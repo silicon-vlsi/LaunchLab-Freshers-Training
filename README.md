@@ -29,7 +29,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
   - Practicing basic UNIX commands. [Link](https://www.webminal.org/)
   - Practicing frequently used and advanced UNIX commands. [Link](https://www.dropbox.com/s/mdcrzaglnirs7z9/Ultimate_Linux_Commands.pdf)
   - Practicing file editing commands. [Link](https://www.dropbox.com/s/v0vnute8hbwkrts/vim_tutorial.pdf)
-  - Test your understanding by solving assignments. [Test: UNIX and BASH scripting]()
+  - Test your understanding by solving assignments. [Test: comming soon]()
   
 ### Week-2: Introduction to Digital Logic Circuit Design (Gate Level)
 - **Logic Gates**: Understanding of basic (NOT, AND, OR), universal (NAND, NOR) and special logic gates (X-OR,X-NOR). 
