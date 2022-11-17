@@ -21,7 +21,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
 
 ## Course Contents
 
-### Week-1
+### Week-1: Pre-requisites
 - **Fundamentals of Digital Logic**: Test your understanding by solving assignments. [Test: Digital Logic Design]()
 - **Fundamentals of Electrical Circuits**: Test your understanding by solving assignments. [Test: Electrical Circuits]()
 - **Fundamentals of Semiconductor Devices**: Test your understanding by solving assignments. [Test: Semiconductor Devices]()
@@ -30,14 +30,25 @@ This repository contains all the materials related to the basic MOSFET theory, C
   - Practicing frequently used UNIX commands. [Link]()
   - Practicing file editing commands. [Link]()
   - Test your understanding by solving assignments. [Test: UNIX and BASH scripting]()
-### Week-2
+  
+### Week-2: Introduction to Digital Logic Circuit Design (Gate Level)
+- **Logic Gates**: Understanding of basic (NOT, AND, OR), universal (NAND, NOR) and special logic gates (X-OR,X-NOR). 
+- **Truth Table & K-Map**: Draw the truth table and find out the logic circuit using K-Map (up to 5 variable). 
+- **Combinational Circuit**: Draw the following circuits: Adders, Subtractors, Multiplexers, De-multiplexers, Decoders, Encoders and Code converters.
+- **Sequential Circuits**: Draw the following circuits: Latches, Flip-Flops, Resisters, Counters and FSM.
+  - Understanding the concept of setup time. hold time, removal time, recovery time etc.
+- **Misc.**: Multiplexer and Decoder based logic circuit design, Edge detector circuit design.
+- **Logic States**: Understanding the loging states and their relevances: 1, 0, X, Z.
+- **Timing Diagram**: Understanding the timing diagram of all the combi and sequential logic circuits.
+
+### Week-3
 - **Day-1**: Introduction to CMOS VLSI Design Flow || Tools and PDK walk through
 - **Day-2**: Passive Integrated Circuit Devices || MOS structure, MOSFET working principle and Threshold Voltage Calculation
 - **Day-3**: MOSFET I-V characteristics || MOSFET intrinsic capacitances
 - **Day-4**: MOSFET modelling (level1, level2, level3 and BSIM) || Introduction to spice netlist, circuit simulation
 - **Day-5**: Introduction to CMOS Processing || Process Stack diagram (Skywater 130nm PDK) || Parasitics and interconnect effects
 - **Day-6**: Asignment and aassessment
-### Week-2
+### Week-4
 - **Day-1**: Layer details (Metal, poly, diffusion, OD, N-Well, P-substrate, P+ Diff, N+ Diff, Via, Contact, Ports and Lable etc) || Layer drawing, layer interacting and, port and label creating || Layout Design of NMOS and PMOS
 - **Day-2**: **Layout Design of Inverter**: 1. Undestanding of Design Rule Check (DRC) || Understanding of Layout Vs Schematic (LVS) || Understanding of Parasic Extraction (PEX) || Understanding of Post Layout Simulation (PLS)
 - **Day-3**: Layout Design of NAND and NOR Gates || Layout Design of Resistors, Capacitors and BJTs
