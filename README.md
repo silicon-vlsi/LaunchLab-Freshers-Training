@@ -47,7 +47,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
   - Digital IC Flow:  Spec  RTL  RTL Verification  Gate-level synthesis  Gate-level simulation  Physical Design  Physical Verification  parasitic extraction  Post-layout verification.
   - Custom IC Flow (Analog IC Design): Spec  Circuit Design  Circuit Simulation  Layout Design  Layout Verification  Parasitic Extraction  Post-layout Simulation. [[Notes]](https://www.dropbox.com/s/cyu949ln3oxjfef/Custom%20VLSI%20Flow.pdf)
   - Requirements of the different CAD tools and PDK in different phase of the IC Design Flow.
-- **IC manufacturing process**:[Meterial](https://www.dropbox.com/s/zxp1dnwknvpfz8y/Weste-JohnsMartin-CMOSprocessing-Layout-Highlight-annotate.pdf)
+- **IC manufacturing process**: [[Link]](https://www.dropbox.com/s/zxp1dnwknvpfz8y/Weste-JohnsMartin-CMOSprocessing-Layout-Highlight-annotate.pdf)
      - Difference between Sub-micron, deep sub-micron and ultra-deep sub-micron process.
      - Detailed understanding of sub-micron process.
      - Passive IC devices and its fabrication: Resistor and Capacitor
