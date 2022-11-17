@@ -70,9 +70,9 @@ This repository contains all the materials related to the basic MOSFET theory, C
 ### Week-5: Circuit Simulaton using CAD tools
 - **Circuit Simulation** Understanding of schematic drawing, SPICE net-list, model file and circuit simulation
 - **Simulation Types** Different type of Simulations: Operating point, DC, Transient and AC.
-  - [[*Schematic Drawing and Symbol Creation*]]()
-  - [[*DC Simulation*]]()
-  - [[*Transient Simulation*]]()
+  - *Schematic Drawing and Symbol Creation* []()
+  - *DC Simulation* []()
+  - *Transient Simulation* []()
 - **MOSFET Characterization**: Simple circuit design using NMOSFET and PMOSFET to characterize Id-Vgs and Id-Vds curves with PVT variations.
 - **Parameter Extraction**: Extraction of the simple level-1 parameters (VT0, KP, LAMDA, GAMMA, PHI) from the curve and comparing the results using Level-1 model and BSIM model.
 - **PVT Variation**: Understanding of Process, Voltage and Temperature (PVT) variation
