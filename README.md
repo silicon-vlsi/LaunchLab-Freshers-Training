@@ -28,9 +28,9 @@ This repository contains all the materials related to the basic MOSFET theory, C
   - *Reference Book*: Fundamentals of Electrical Circuits by Alexander and Sadiku. [[Link]](https://library.iitp.ac.in/images/btech_ebook/Fundementals%20of%20Electric%20Circuits%20by%20Alexander%20and%20Sadiku.pdf)
 - **Fundamentals of Semiconductor Devices**: Test your understanding by solving assignments. [Test: comming soon]()
 - **Fundamentas of UNIX**: 
-  - Practicing basic UNIX commands. [Link](https://www.webminal.org/)
-  - Practicing frequently used and advanced UNIX commands. [Link](https://www.dropbox.com/s/mdcrzaglnirs7z9/Ultimate_Linux_Commands.pdf)
-  - Practicing file editing commands. [Link](https://www.dropbox.com/s/v0vnute8hbwkrts/vim_tutorial.pdf)
+  - Practicing basic UNIX commands. [[Link]](https://www.webminal.org/)
+  - Practicing frequently used and advanced UNIX commands. [[Link]](https://www.dropbox.com/s/mdcrzaglnirs7z9/Ultimate_Linux_Commands.pdf)
+  - Practicing file editing commands. [[Link]](https://www.dropbox.com/s/v0vnute8hbwkrts/vim_tutorial.pdf)
   - Test your understanding by solving assignments. [Test: comming soon]()
   
 ### Week-2: Introduction to Digital Logic Circuit Design (Gate Level)
