@@ -65,8 +65,8 @@ This repository contains all the materials related to the basic MOSFET theory, C
   - *Short Channel Effects* [[Notes]]()
 - **Asignments**: [Assignment-1]()
 
-### Week-4: Circuit Simulaton using CAD tools
-- **Circuit Simulation** Concept behind the schematic drawing, SPICE net-list, model file and circuit simulation
+### Week-5: Circuit Simulaton using CAD tools
+- **Circuit Simulation** Understanding of schematic drawing, SPICE net-list, model file and circuit simulation
 - **Simulation Types** Different type of Simulations: Operating point, DC, Transient and AC
 - **MOSFET Characterization**: Simple circuit design using NMOSFET and PMOSFET to characterize Id-Vgs and Id-Vds curves with PVT variations.
 - **Parameter Extraction**: Extraction of the simple level-1 parameters (VT0, KP, LAMDA, GAMMA, PHI) from the curve and comparing the results using Level-1 model and BSIM model.
@@ -74,7 +74,31 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - **Sensitivity and mismatch analysis**: Understanding the random variation and mismatch analysis by Monte Carlo simulations.
 - **Parametric simulation**: Parametric analysis and circuit simulation using ADE-XL
 
-### Week-3
+### Week-6: CMOS Inverter Design
+- **CMOS inverter**: Understanding of CMOS inverter design, CMOS advantages, static characteristics, dynamic characteristics, power and energy consumptions.
+  - *Static Characteristics* [[Notes]](https://www.dropbox.com/s/6bosq72c78s964j/2020-0824-15VLSI7T-Module1-Lecture14-15-Inverter-Static.pdf) || [[Video]](https://www.youtube.com/watch?v=zXtUMSTi0KY)
+  - *Switching Characteristics and Delay Calculation [[Notes]](https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf) || [[Video]](https://www.youtube.com/watch?v=U8spQ_6kLYE)
+  - *Static and Dynamic Power Dissipation* [[Notes]](https://www.dropbox.com/s/yasjc7athn4gggx/2020-0901-15VLSI7T-Module1-Lecture18-19-Dynamic-Power.pdf) || [[Video]](https://www.youtube.com/watch?v=IVuvTYa_SUE)
+- **Interconnect Parasitics**: Understanding the wiring capacitance: parallel plate capacitance, coupling capacitance, fringing capacitance and different capacitance models.
+  - *Interconnect Parasitics* [[Notes]](https://www.dropbox.com/s/1vicae5kih5flm0/2020-0914-15VLSI7T-Module4-Lecture3-Interconnect-Parasitics.pdf) || [[Video]](https://www.youtube.com/watch?v=uQoivq7c5ZQ)
+- **Inverter Chain**: Understanding of Inverter chain design to drive a higher capacitive load || Understanding of number of stages ans stage ratio || Understanding of optimal delay.
+  - *Inverter Chain Design* [[Notes]](https://www.dropbox.com/s/1in6ofch4lxt7zv/2020-0915-15VLSI7T-Module2-Lecture25-26-Inverter-Chain-Design.pdf) || [[Video]](https://www.youtube.com/watch?v=uQoivq7c5ZQ)
+- **Design and Simulation**: Deisn, simulation and charactrization all of the above.
+
+### Week-7: Other Combinational and Sequential Circuit Design
+- **Other Combi**: Design other combinational logics like, NAND gate, NOR gate, MUX and transmission gates.
+  - *CMOS Logic Circuits & Complex Logic Circuits [[Notes]](https://www.dropbox.com/s/tpdidw4rtuvk9f4/2020-0907-15VLSI7T-Module2-Lecture20-21-Combinational-Logic.pdf) || [[Video]](https://www.youtube.com/watch?v=uQoivq7c5ZQ)
+  - *CMOS Transmission Gate* [[Notes]](https://www.dropbox.com/s/8xkxupbchyv9m9s/2020-0908-15VLSI7T-Module2-Lecture22-23-Transmission-Gate.pdf) || [[Video]](https://www.youtube.com/watch?v=yKiQru_JIpE&t=16s)
+  - *Pseudo NMOS Logic* [[Notes]](https://www.dropbox.com/s/d0fsj5oyyjygusu/2020-0909-15VLSI7T-Module2-Lecture24-Pseudo-NMOS-Logic.pdf) || [[Video]](https://www.youtube.com/watch?v=Gi2ipFUubfs)
+- **Sequential Logic Circuits**: 
+  - *Latch and Flip-Flop Circuits* [[Notes]](https://www.dropbox.com/s/0q6lvah7bk2j11e/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits.pdf) || [[Video]](https://www.youtube.com/watch?v=LHw9McKBRJI)
+  - *Sequential Logic Circuits* [[Slides]](https://www.dropbox.com/s/uht871k7dje6hnj/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits-Slides%28Kang-Book%29.pdf) || [[Video]](https://www.youtube.com/watch?v=ETCqIvNYOpk)
+  - *Setup, Hold and Propagation delay of D-FF* [[Notes]](https://www.dropbox.com/s/xmpueuvrqmcsclv/2020-0922-15VLSI7T-Module2-Lecture30-31-Setup-Hold-Propagation-Delay-of-DFF.pdf) || [[Video]](https://www.youtube.com/watch?v=5Ofx-QubGts)
+  - *Hold Time Analysis of D-FF* [[]]() || [[Video]](https://www.youtube.com/watch?v=5HziqKs8luE)
+
+
+
+### Week-5
 - **Day-1**: Introduction to CMOS VLSI Design Flow || Tools and PDK walk through
 - **Day-2**: Passive Integrated Circuit Devices || MOS structure, MOSFET working principle and Threshold Voltage Calculation
 - **Day-3**: MOSFET I-V characteristics || MOSFET intrinsic capacitances
