@@ -61,6 +61,8 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - **MOSFET**: Understanding of Metal-Oxide-Field-Effect-Transistor (MOSFET), working principle, regions of operation, Id-Vgs and Id-Vds characteristics, Body effects, Channel length modulations and intrinisic capacitances.
   - *Metal Oxide Semiconductor Field Effect Transistor-1* [[Notes]](https://www.dropbox.com/s/23z0n3p068hkgul/2020-0817-15VLSI7T-Module1-Lecture9-10-MOSFET.pdf) || [[Video]](https://www.youtube.com/watch?v=tfF-K-Gbeb4)
   - *Metal Oxide Semiconductor Field Effect Transistor-2* [[Notes]](https://www.dropbox.com/s/mqzd1o6u5y8qprn/2020-0818-15VLSI7T-Module1-Lecture11-12-MOSFET.pdf) || [[Video]](https://www.youtube.com/watch?v=bPLzXzopsNo)
+- **MOSFET Capacitance**: Understanding of different intrinsic capacitances (overlap capacitance, channel capacitance, junction capacitance) of a MOSFET
+  - *MOSFET Capacitance* [[Notes]](https://www.dropbox.com/s/xxci3s9zu62b042/2020-0819-15VLSI7T-Module1-Lecture13-MOSFET-Capacitance.pdf) || [[Video]](https://www.youtube.com/watch?v=toIzPbxFwKE)
 - **Short Channel Effects**: Understanding of MOSFET scaling and differenct short channel effects: Drain induced barrier lowering (DIBL), Velocity Saturation, Mobility degradaton, Hot carrier effects and Impact ionisation.
   - *Short Channel Effects* [[Notes]]()
 - **Asignments**: [Assignment-1]()
@@ -115,12 +117,6 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - [Nov-10] *Session-1*: Passive Integrated Circuit Devices. *Session-2*: MOS Device-I: Threshold Voltage [[Video:Session-1](https://www.youtube.com/watch?v=3SCYAH57Ixw) | [Video:Session-2](https://www.youtube.com/watch?v=OUZV9N0b3Lc)]
   - [*Suggested Reading*]: [Hodges] Section **3.2.4, 3.2.5**
   - [*Suggested Problems*]: [Hodges] Example **3.1**, Prob **3.13, 3.14**
-  - [**Additional Materials**]: Metal Oxide Semiconductor Field Effect Transistor (MOSFET)
-  - Metal-Oxide-Semiconductor Stucture-1 [[Notes]](https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=AxZyFuJh0rM)
-  - Metal-Oxide-Semiconductor Stucture-2 [[Notes]](https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=zQmV7c30ZDU)
-  - Metal-Oxide-Semiconductor Stucture-3 [[Notes]](https://www.dropbox.com/s/xcipyfkiis1fbo5/2020-0810-15VLSI7T-Module1-Lecture7-8-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=Eyu6TVZRwAE)
-  - Metal Oxide Semiconductor Field Effect Transistor-1 [[Notes]](https://www.dropbox.com/s/23z0n3p068hkgul/2020-0817-15VLSI7T-Module1-Lecture9-10-MOSFET.pdf) || [[Video]](https://www.youtube.com/watch?v=tfF-K-Gbeb4)
-  - Metal Oxide Semiconductor Field Effect Transistor-2 [[Notes]](https://www.dropbox.com/s/mqzd1o6u5y8qprn/2020-0818-15VLSI7T-Module1-Lecture11-12-MOSFET.pdf) || [[Video]](https://www.youtube.com/watch?v=bPLzXzopsNo)
 - [Nov-11] *Session-1*: MOS Device-II: IV Characteristics and MOS Capacitance. *Session-2*: Basic Circuits. [[Video:Session-1](
 https://www.youtube.com/watch?v=UUCB_dgFiwA) | [Video:Session-2](https://www.youtube.com/watch?v=OzlsThjjUDA)]
   - [*Suggested Reading*]: [Hodges] Section **2.2.1, 2.2.2, 2.2.3, 2.2.7** [Kang]: Chapter **3** [Uyemura] Section **1.1, 1.2** (Excellent treatment on Vt) [Baker]: Section **6.1, 6.2, 6.3**
