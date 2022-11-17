@@ -41,6 +41,18 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - **Logic States**: Understanding the loging states and their relevances: 1, 0, X, Z.
 - **Timing Diagram**: Understanding the timing diagram of all the combi and sequential logic circuits.
 
+### Week-3: Basics of CMOS VLSI Design
+- **Introduction**: Fundamentals of VLSI Design and overview of Sand-to-Silicon.
+- **IC Design Flow**: Overview of Digital and Custom IC Design Flow and requirement of Computer Aided Design (CAD) Tools and Process Design Kit (PDK).
+  - Digital IC Flow:  Spec  RTL  RTL Verification  Gate-level synthesis  Gate-level simulation  Physical Design  Physical Verification  parasitic extraction  Post-layout verification.
+  - Custom IC Flow (Analog IC Design): Spec  Circuit Design  Circuit Simulation  Layout Design  Layout Verification  Parasitic Extraction  Post-layout Simulation.
+  - Requirements of the different CAD tools and PDK in different phase of the IC Design Flow.
+- **IC manufacturing process**:
+     - Difference between Sub-micron, deep sub-micron and ultra-deep sub-micron process.
+     - Detailed understanding of sub-micron process.
+     - Passive IC devices and its fabrication: Resistor and Capacitor
+     - MOSFET and CMOS Inverter fabrication process, cross-sectional view, top view and 3D view.
+  
 ### Week-3
 - **Day-1**: Introduction to CMOS VLSI Design Flow || Tools and PDK walk through
 - **Day-2**: Passive Integrated Circuit Devices || MOS structure, MOSFET working principle and Threshold Voltage Calculation
