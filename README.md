@@ -52,6 +52,9 @@ This repository contains all the materials related to the basic MOSFET theory, C
      - Detailed understanding of sub-micron process.
      - Passive IC devices and its fabrication: Resistor and Capacitor
      - MOSFET and CMOS Inverter fabrication process, cross-sectional view, top view and 3D view.
+
+### Week-3: Fundamentals of MOSFET
+- **MOS Structure**: Understanding of Metaal-Oxide-Semiconductor structure || understanding of accumulation, depletion and inverssion region of operation || understanding of Q-V and C-V characteristics of MOS structure.
   
 ### Week-3
 - **Day-1**: Introduction to CMOS VLSI Design Flow || Tools and PDK walk through
