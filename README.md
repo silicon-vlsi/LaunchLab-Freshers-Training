@@ -42,7 +42,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - **Misc.**: Multiplexer and Decoder based logic circuit design, Edge detector circuit design.
 - **Logic States**: Understanding the loging states and their relevances: 1, 0, X, Z.
 - **Timing Diagram**: Understanding the timing diagram of all the combi and sequential logic circuits.
-
+- *Reference Book*: Digital Logic and Computer Design by M. Morris Mano. [[Link]](https://ia800607.us.archive.org/3/items/DigitalLogicAndComputerDesignByM.MorrisMano2ndEdition/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf)
 ### Week-3: Basics of CMOS VLSI Design
 - **Introduction**: Fundamentals of VLSI Design and overview of Sand-to-Silicon.
 - **IC Design Flow**: Overview of Digital and Custom IC Design Flow and requirement of Computer Aided Design (CAD) Tools and Process Design Kit (PDK).
