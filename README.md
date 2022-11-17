@@ -22,8 +22,10 @@ This repository contains all the materials related to the basic MOSFET theory, C
 ## Course Contents
 
 ### Week-1
-- **Fundamentals of Digital Logi**: Test your understanding by solving assignments. [Test: Digital Logic Design]()
-
+- **Fundamentals of Digital Logic**: Test your understanding by solving assignments. [Test: Digital Logic Design]()
+- **Fundamentals of Electrical Circuits**: Test your understanding by solving assignments. [Test: Electrical Circuits]()
+- **Fundamentals of Semiconductor Devices**: Test your understanding by solving assignments. [Test: Semiconductor Devices]()
+- **Fundamentas of UNIX**: 
 ### Week-2
 - **Day-1**: Introduction to CMOS VLSI Design Flow || Tools and PDK walk through
 - **Day-2**: Passive Integrated Circuit Devices || MOS structure, MOSFET working principle and Threshold Voltage Calculation
