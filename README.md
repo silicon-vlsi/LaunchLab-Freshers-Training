@@ -56,7 +56,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
      - MOSFET and CMOS Inverter fabrication process, cross-sectional view, top view and 3D view.
 
 ### Week-4: Fundamentals of MOSFET
-- **MOS Structure**: Understanding of Metaal-Oxide-Semiconductor structure || understanding of accumulation, depletion and inverssion region of operation || understanding of Q-V and C-V characteristics of MOS structure.
+- **MOS Structure**: Understanding of Metal-Oxide-Semiconductor structure || understanding of accumulation, depletion and inverssion region of operation || understanding of Q-V and C-V characteristics of MOS structure.
      - *MOS Stucture-1* [[Notes]](https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=AxZyFuJh0rM)
   - *MOS Stucture-2* [[Notes]](https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=zQmV7c30ZDU)
   - *MOS Stucture-3* [[Notes]](https://www.dropbox.com/s/xcipyfkiis1fbo5/2020-0810-15VLSI7T-Module1-Lecture7-8-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=Eyu6TVZRwAE)
