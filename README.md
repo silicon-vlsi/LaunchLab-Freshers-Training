@@ -84,7 +84,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
 ### Week-6: CMOS Inverter Design
 - **CMOS inverter**: Understanding of CMOS inverter design, CMOS advantages, static characteristics, dynamic characteristics, power and energy consumptions.
   - *Static Characteristics* [[Notes]](https://www.dropbox.com/s/6bosq72c78s964j/2020-0824-15VLSI7T-Module1-Lecture14-15-Inverter-Static.pdf) || [[Video]](https://www.youtube.com/watch?v=zXtUMSTi0KY)
-  - *Switching Characteristics and Delay Calculation [[Notes]](https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf) || [[Video]](https://www.youtube.com/watch?v=U8spQ_6kLYE)
+  - *Switching Characteristics and Delay Calculation* [[Notes]](https://www.dropbox.com/s/ictagcl13jpd62v/2020-0831-15VLSI7T-Module1-Lecture16-17-Inverter-switching.pdf) || [[Video]](https://www.youtube.com/watch?v=U8spQ_6kLYE)
   - *Static and Dynamic Power Dissipation* [[Notes]](https://www.dropbox.com/s/yasjc7athn4gggx/2020-0901-15VLSI7T-Module1-Lecture18-19-Dynamic-Power.pdf) || [[Video]](https://www.youtube.com/watch?v=IVuvTYa_SUE)
 - **Interconnect Parasitics**: Understanding the wiring capacitance: parallel plate capacitance, coupling capacitance, fringing capacitance and different capacitance models.
   - *Interconnect Parasitics* [[Notes]](https://www.dropbox.com/s/1vicae5kih5flm0/2020-0914-15VLSI7T-Module4-Lecture3-Interconnect-Parasitics.pdf) || [[Video]](https://www.youtube.com/watch?v=uQoivq7c5ZQ)
