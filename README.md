@@ -102,8 +102,8 @@ This repository contains all the materials related to the basic MOSFET theory, C
   - *Sequential Logic Circuits* [[Slides]](https://www.dropbox.com/s/uht871k7dje6hnj/2020-0921-15VLSI7T-Module2-Lecture28-29-Sequential-Circuits-Slides%28Kang-Book%29.pdf) || [[Video]](https://www.youtube.com/watch?v=ETCqIvNYOpk)
   - *Setup, Hold and Propagation delay of D-FF* [[Notes]](https://www.dropbox.com/s/xmpueuvrqmcsclv/2020-0922-15VLSI7T-Module2-Lecture30-31-Setup-Hold-Propagation-Delay-of-DFF.pdf) || [[Video]](https://www.youtube.com/watch?v=5Ofx-QubGts)
   - *Hold Time Analysis of D-FF* [[]]() || [[Video]](https://www.youtube.com/watch?v=5HziqKs8luE)
-- **Static Timing Analysis (STA) [[Notes]] ()
-  - *Delays, timing arc, timing paths, setup and hold constraints, setup and hold time violations, recovery and remova time and its violations
+- **Static Timing Analysis (STA)** [[Notes]] ()
+  - *Delays, timing arc, timing paths, setup and hold constraints, setup and hold time violations, recovery and remova time and its violations*
 - **Assignments**: [Assignment-1](https://www.dropbox.com/s/43eetb3b03xw4ei/Setup_Hold%20Assignment.pdf)
 
 ### Week-8: Layout Design
