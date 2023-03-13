@@ -90,7 +90,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
   - *Interconnect Parasitics* [[Notes]](https://www.dropbox.com/s/1vicae5kih5flm0/2020-0914-15VLSI7T-Module4-Lecture3-Interconnect-Parasitics.pdf) || [[Video]](https://www.youtube.com/watch?v=uQoivq7c5ZQ)
 - **Inverter Chain**: Understanding of Inverter chain design to drive a higher capacitive load || Understanding of number of stages ans stage ratio || Understanding of optimal delay.
   - *Inverter Chain Design* [[Notes]](https://www.dropbox.com/s/1in6ofch4lxt7zv/2020-0915-15VLSI7T-Module2-Lecture25-26-Inverter-Chain-Design.pdf) || [[Video]](https://www.youtube.com/watch?v=uQoivq7c5ZQ)
-- **Design and Simulation**: Deisn, simulation and charactrization all of the above.
+- **Design and Simulation**: Design, simulation and charactrization all of the above.
 
 ### Week-7: Other Combinational and Sequential Circuit Design
 - **Other Combi**: Design other combinational logics like, NAND gate, NOR gate, MUX and transmission gates.
