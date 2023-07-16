@@ -47,7 +47,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
 - **Introduction**: Fundamentals of VLSI Design and overview of Sand-to-Silicon.
 - **IC Design Flow**: Overview of Digital and Custom IC Design Flow and requirement of Computer Aided Design (CAD) Tools and Process Design Kit (PDK).
   - Digital IC Flow:  Spec --> RTL --> RTL Verification --> Gate-level synthesis --> Gate-level simulation --> Physical Design --> Physical Verification --> parasitic extraction --> Post-layout verification.
-  - Custom IC Flow (Analog IC Design): Spec  Circuit Design  Circuit Simulation  Layout Design  Layout Verification  Parasitic Extraction  Post-layout Simulation. [[Notes]](https://www.dropbox.com/s/cyu949ln3oxjfef/Custom%20VLSI%20Flow.pdf)
+  - Custom IC Flow (Analog IC Design): Spec --> Circuit Design --> Circuit Simulation --> Layout Design --> Layout Verification --> Parasitic Extraction --> Post-layout Simulation. [[Notes]](https://www.dropbox.com/s/cyu949ln3oxjfef/Custom%20VLSI%20Flow.pdf)
   - Requirements of the different CAD tools and PDK in different phase of the IC Design Flow. [[Notes]](https://www.dropbox.com/s/cyu949ln3oxjfef/Custom%20VLSI%20Flow.pdf)
 - **IC manufacturing process**: [[Link]](https://www.dropbox.com/s/zxp1dnwknvpfz8y/Weste-JohnsMartin-CMOSprocessing-Layout-Highlight-annotate.pdf)
      - Difference between Sub-micron, deep sub-micron and ultra-deep sub-micron process.
