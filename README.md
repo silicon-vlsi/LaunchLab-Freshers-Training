@@ -22,7 +22,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
 ## Course Contents
 
 ### Week-1: Pre-requisites
-- **Fundamentals of RC Circuits**: Test your understanding by solving assignments. [Test: RC Circuit]()
+- **Fundamentals of RC Circuits**: Test your understanding by solving assignments. [Test: RC Circuit](https://www.dropbox.com/scl/fi/g649k0yu1hz5mpvckpzsx/RC-Circuit-Assignment.pdf)
 - **Fundamentals of Digital Logic**: Test your understanding by solving assignments. [Test: Digital Logic Design](https://www.dropbox.com/s/k5vwksmb9quau2n/Digital-Circuits-Assignment.pdf)
   - *Reference Book*: Digital Logic and Computer Design by M. Morris Mano. [[Link]](https://ia800607.us.archive.org/3/items/DigitalLogicAndComputerDesignByM.MorrisMano2ndEdition/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf)
 - **Fundamentals of Electrical Circuits**: Test your understanding by solving assignments. [Test: Electrical Circuits](https://www.dropbox.com/s/26f7nwgm0qtkbvw/Electrical-Circuits-Asignment.pdf)
