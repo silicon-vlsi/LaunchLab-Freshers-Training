@@ -61,6 +61,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
      - *MOS Stucture-1* [[Notes]](https://www.dropbox.com/s/ntcueemzmsbx9vb/2020-0803-15VLSI7T-Module1-Lecture-4-5-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=AxZyFuJh0rM)
   - *MOS Stucture-2* [[Notes]](https://www.dropbox.com/s/85kswvq4ejs08ha/2020-0805-15VLSI7T-Module1-Lecture6-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=zQmV7c30ZDU)
   - *MOS Stucture-3* [[Notes]](https://www.dropbox.com/s/xcipyfkiis1fbo5/2020-0810-15VLSI7T-Module1-Lecture7-8-MOS-Transistor.pdf) || [[Video]](https://www.youtube.com/watch?v=Eyu6TVZRwAE)
+  - **Assignment**: [Assignment-1: MOS-Structure](https://www.dropbox.com/scl/fi/fye1f8pfr9gzo83j6isd9/Metal-Oxide-Semiconductor-Structure.pdf)
 - **MOSFET**: Understanding of Metal-Oxide-Field-Effect-Transistor (MOSFET), working principle, regions of operation, Id-Vgs and Id-Vds characteristics, Body effects, Channel length modulations and intrinisic capacitances.
   - *Metal Oxide Semiconductor Field Effect Transistor-1* [[Notes]](https://www.dropbox.com/s/23z0n3p068hkgul/2020-0817-15VLSI7T-Module1-Lecture9-10-MOSFET.pdf) || [[Video]](https://www.youtube.com/watch?v=tfF-K-Gbeb4)
   - *Metal Oxide Semiconductor Field Effect Transistor-2* [[Notes]](https://www.dropbox.com/s/mqzd1o6u5y8qprn/2020-0818-15VLSI7T-Module1-Lecture11-12-MOSFET.pdf) || [[Video]](https://www.youtube.com/watch?v=bPLzXzopsNo)
@@ -68,7 +69,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
   - *MOSFET Capacitance* [[Notes]](https://www.dropbox.com/s/xxci3s9zu62b042/2020-0819-15VLSI7T-Module1-Lecture13-MOSFET-Capacitance.pdf) || [[Video]](https://www.youtube.com/watch?v=toIzPbxFwKE)
 - **Short Channel Effects**: Understanding of MOSFET scaling and differenct short channel effects: Drain induced barrier lowering (DIBL), Velocity Saturation, Mobility degradaton, Hot carrier effects and Impact ionisation.
   - *Short Channel Effects* [[Notes]](https://www.dropbox.com/s/0b1jc56bo2svz98/Short-Channel-Effect.pdf)
-- **Asignments**: [Assignment-1](https://www.dropbox.com/s/7b81grtkhlmnbyx/MOSFET-Asignment.pdf)
+- **Asignment**: [Assignment-2: MOSFET with Capacitor](https://www.dropbox.com/scl/fi/fye1f8pfr9gzo83j6isd9/Metal-Oxide-Semiconductor-Structure.pdf)
 
 ### Week-5: Circuit Simulaton using CAD tools
 - **Circuit Simulation** Understanding of schematic drawing, SPICE net-list, model file and circuit simulation.
