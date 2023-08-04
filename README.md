@@ -69,7 +69,7 @@ This repository contains all the materials related to the basic MOSFET theory, C
   - *MOSFET Capacitance* [[Notes]](https://www.dropbox.com/s/xxci3s9zu62b042/2020-0819-15VLSI7T-Module1-Lecture13-MOSFET-Capacitance.pdf) || [[Video]](https://www.youtube.com/watch?v=toIzPbxFwKE)
 - **Short Channel Effects**: Understanding of MOSFET scaling and differenct short channel effects: Drain induced barrier lowering (DIBL), Velocity Saturation, Mobility degradaton, Hot carrier effects and Impact ionisation.
   - *Short Channel Effects* [[Notes]](https://www.dropbox.com/s/0b1jc56bo2svz98/Short-Channel-Effect.pdf)
-- **Asignment**: [Assignment-2: MOSFET with Capacitor](https://www.dropbox.com/scl/fi/fye1f8pfr9gzo83j6isd9/Metal-Oxide-Semiconductor-Structure.pdf)
+- **Asignment**: [Assignment-2: MOSFET with Capacitor](https://www.dropbox.com/scl/fi/ofhtvj15xxkhfc55oyw1v/MOSFET-with-Capacitor-Circuit.pdf)
 
 ### Week-5: Circuit Simulaton using CAD tools
 - **Circuit Simulation** Understanding of schematic drawing, SPICE net-list, model file and circuit simulation.
